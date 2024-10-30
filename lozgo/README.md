@@ -1,0 +1,2 @@
+# lozgo
+Custom Go package
